@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is a popular method used in machine learning for classification?,a:Linear Regression | b:Decision Trees | c:K-Means Clustering | d:Principal Component Analysis,b
+Which algorithm is commonly used for anomaly detection in machine learning?,a:Support Vector Machines | b:K-Nearest Neighbors | c:Isolation Forest | d:Random Forest,c
+What is the purpose of regularization in machine learning?,a:To reduce overfitting | b:To increase training accuracy | c:To decrease model complexity | d:To speed up training time,a
+Which evaluation metric is commonly used for regression problems?,a:Precision | b:Recall | c:Mean Squared Error | d:F1 Score,c
+What is the purpose of feature scaling in machine learning?,a:To make all features have the same scale | b:To remove outliers from the data | c:To increase model complexity | d:To decrease training time,a
